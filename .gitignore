@@ -1,0 +1,7 @@
+terraform-assessment/terraform.tfvars
+terraform-assessment/.terraform/
+terraform-assessment/.terraform.lock.hcl
+terraform-assessment/*.tfstate
+terraform-assessment/*.tfstate.backup
+terraform-assessment/terraform.tfstate
+.DS_Store
